@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns10111110111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x4893B8">
+  <layouts>
+    <layout name="npnxnanbsnfns10111110111" font="Lato" controllayout="npnxnanbsnfns10111110111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="pxabnsnfns10111110111" font="Lato" controllayout="pxabnsnfns10111110111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="npxnabnsnfns10111110111" font="Lato" controllayout="npxnabnsnfns10111110111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="npnxnanbnsnfns10111110111" font="Lato" controllayout="npnxnanbnsnfns10111110111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="pxabnsnfns10111110110" font="Lato" controllayout="pxabnsnfns10111110110" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="npnxnanbsnfns00011100111" font="Lato" controllayout="npnxnanbsnfns00011100111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="pxabnsnfns00011100111" font="Lato" controllayout="pxabnsnfns00011100111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+    <layout name="pxabsnfns10111110111" font="Lato" controllayout="pxabsnfns10111110111" colorscheme="pxabnsnfns10111110111" string_table="pxabnsnfns10111110111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Human Connection in the Virtual Classroom" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="glossary" value="true" group="linkleft" />
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="none" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+          <option name="logoAltTextEnabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true" />
+          <option name="settings" value="true" />
+          <option name="playbackSpeedControl" value="true" />
+          <option name="fullScreenToggle" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+      <optiongroup name="courseOptions">
+        <options>
+          <option name="thumbnailEnabled" value="true" />
+          <option name="thumbnailDisplayName" value="Slide: Human Connection in " />
+          <option name="thumbnailUrl" value="story_content/6WJjupnGLKE.png" />
+          <option name="thumbnailFillFrame" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="ccOptions">
+        <options>
+          <option name="font" value="Lato" />
+          <option name="size" value="100" />
+          <option name="placement" value="100" />
+          <option name="backgroundColor" value="#000000FF" />
+          <option name="color" value="#FFFFFFFF" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111110110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxnanbsnfns00011100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00011100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabsnfns10111110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="true" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns10111110111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="focus_rect_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x002060" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x214400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428E00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2E5D00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C7C00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2C2F30" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="80" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x373737" alpha="77" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="1" stop="89" />
+                <color rgb="0x000000" alpha="6" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x272B2C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x919191" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4893B8" alpha="30" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns10111110111">
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next">Next (Ctrl+Alt+Period)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">Pause (Ctrl+Alt+P)</string>
+      <string id="acc_play">Play (Ctrl+Alt+P)</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous">Previous (Ctrl+Alt+Comma)</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
+      <string id="acc_search_input">search</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="acc_submit">Submit (Ctrl+Alt+S)</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_visited">visited</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_window_resize">Resize window</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="background_audio">Background audio</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="closed_captions">Captions</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="filter">Filter</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
+      <string id="glossary">Glossary</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next">NEXT</string>
+      <string id="next_shortcut">Next</string>
+      <string id="outline">Menu</string>
+      <string id="outline_container">Menu</string>
+      <string id="period_key">Period</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="prev">PREV</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_toggle">Search</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submit">SUBMIT</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="terms">Terms</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="transcript">Notes</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
+      <string id="video_transcript_select_track">Select track</string>
+      <string id="video_transcript_title">Transcripts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="invalid_prompt_button">OK</string>
+      <string id="invalid_prompt_message">You must complete the question before submitting.</string>
+      <string id="invalid_prompt_title">Invalid Answer</string>
+      <string id="print_prompt_button">OK</string>
+      <string id="print_prompt_title">Enter name</string>
+      <string id="print_prompt_message">Enter your name in the field below:</string>
+      <string id="timer_prompt_button">OK</string>
+      <string id="timer_prompt_title">Time Limit Exceeded</string>
+      <string id="timer_prompt_message">You have reached the time limit set for the quiz. Press 'OK' to continue.</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+        <file bold="false" italic="true" />
+      </files>
+    </font>
+    <font name="Times New Roman">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.695nrNNteBQ" displaytext="Introduction &amp;amp; Overview" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.695nrNNteBQ.6mwHJPdJi5y" displaytext="Human Connection in " expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5saBMaNhZYk" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.6PtJFrJeUlu" displaytext="The Big Idea!" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5bdmZpc04gD" displaytext="Learning Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.6cFd1oc22g3" displaytext="Course and Communication Guidelines" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5V53KFWLPrK" displaytext="Preparing yourself for Success" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.6rC7Uqh1F5q" displaytext="Interactions in Articulate" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5jaBiIUn0H2" displaytext="Interactions in Articulate" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5nlhaOV4yXD" displaytext="Social Presence and CoI" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.5hIIRbhQeUT" displaytext="How Social Presence effects learning" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.6O22woKBXed" displaytext="Weight of the Social Presence in CoI" expand="false" type="slide" />
+            <slidelink slideid="_player.695nrNNteBQ.62ZYBYY6d4I" displaytext="Weight of the Social Presence in CoI" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5w4oOdU9MAx" displaytext="Triggering Phase" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5w4oOdU9MAx.5ftKdFAEjnX" displaytext="Triggering Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.5fLavVCaohQ" displaytext="Social Presence Supporting Activities" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.6HKdoDR0AHx" displaytext="Social Presence Supporting Activities" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.5lv8HQDJPJc" displaytext="Social Presence Supporting Activities" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.6pxHrwfpL8N" displaytext="Social Presence and Interaction" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.5sqLEXPC912" displaytext="Social Presence Supporting Activities" expand="false" type="slide" />
+            <slidelink slideid="_player.5w4oOdU9MAx.5qPFp1llrSI" displaytext="Social Presence Supporting Activities" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ZXLaWkfUW4" displaytext="Exploration Phase" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ZXLaWkfUW4.6nEXDIikq0T" displaytext="Exploration Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.67btFctf5O3" displaytext="Presences of CoI effected by Social Connections" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.6Llf46skiTU" displaytext="Social Presence Effects in CoI" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.6ZvwdJLscXX" displaytext="Social Presence Effects on Teaching Presence" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.5UvOPJDxCBx" displaytext="Social Presence Effects on Cognitive Presence" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.5wFUmN7LxJz" displaytext="Presences of CoI effected by Social Connections" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.5aIs4Dxwi4r" displaytext="Presences of CoI effected by Social Connections" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZXLaWkfUW4.6qifZtLSeo4" displaytext="Presences of CoI effected by Social Connections" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6iMF8hkfS6o" displaytext="Integration Phase" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6iMF8hkfS6o.6VGzoO0LpDh" displaytext="Integration Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.61ASfkgKsOE" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6ZbWFhUnPfU" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6IrCG5i06Jm" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.60yl6cAxqa4" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6QteePgNkTc" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.5hD8DIQX9zU" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6cUgtiCVvJh" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6NNeuGepMAY" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.5zgXhwMdqsD" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+            <slidelink slideid="_player.6iMF8hkfS6o.6GVNRnnxkxV" displaytext="Social Connections in Course Design" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5uNTZmgTLzw" displaytext="Resolution Phase" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5uNTZmgTLzw.5eMTyhF4fYc" displaytext="Resolution Phase" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.67Tfn5p1VnE" displaytext="Name Input for Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.5hg9kBIFjZu" displaytext="Quiz Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6ZPER0i3ums" displaytext="Question #1" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6lzXh3sEbh4" displaytext="Question #2" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.65rjkEBeLm2" displaytext="Question #3" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6Kh7Xmt0pll" displaytext="Question #4" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6OkAvI6IiW3" displaytext="Question #5" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.5zLb7YRTluU" displaytext="Summary." expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6RSslNoHONw" displaytext="Recommendations" expand="false" type="slide" />
+            <slidelink slideid="_player.5uNTZmgTLzw.6CRAi21Omcd" displaytext="Thank you!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="695nrNNteBQ.6mwHJPdJi5y" slidebank="false" type="slide">    </slidetext>
+      <slidetext slideid="695nrNNteBQ.5saBMaNhZYk" slidebank="false" type="slide">overview</slidetext>
+      <slidetext slideid="695nrNNteBQ.6PtJFrJeUlu" slidebank="false" type="slide">the big idea! human connection or social presence is a critical aspect of a successful learning environment that requires a supporting course design.  </slidetext>
+      <slidetext slideid="695nrNNteBQ.5bdmZpc04gD" slidebank="false" type="slide"> 1.define social presence in coi. 2.identify elements of social presence in learning. 3. understand how social presence can be supported by course design.</slidetext>
+      <slidetext slideid="695nrNNteBQ.6cFd1oc22g3" slidebank="false" type="slide"> 1.for all course questions and policies, please see the administrative section of your courseware.  2.if there is a need for clarification on course policies or issues with assignments, please email your instructor. 3. please do not share course information with other students. work at your own pace, while ensuring all assignments are completed by the prescribed deadlines.</slidetext>
+      <slidetext slideid="695nrNNteBQ.5V53KFWLPrK" slidebank="false" type="slide">preparing yourself for success please prepare yourself and your environment to focus on learning successfully! </slidetext>
+      <slidetext slideid="695nrNNteBQ.6rC7Uqh1F5q" slidebank="false" type="slide">interactions in articulate articulate provides an interactive format to improve learning.  </slidetext>
+      <slidetext slideid="695nrNNteBQ.5jaBiIUn0H2" slidebank="false" type="slide">interactions in articulate articulate provides an interactive format to improve learning.  </slidetext>
+      <slidetext slideid="695nrNNteBQ.5nlhaOV4yXD" slidebank="false" type="slide">social presence and coi the community of inquiry model identifies social presence as a key factor in learning.  </slidetext>
+      <slidetext slideid="695nrNNteBQ.5hIIRbhQeUT" slidebank="false" type="slide">how social presence effects learning please prepare yourself and your environment to focus on learning successfully! </slidetext>
+      <slidetext slideid="695nrNNteBQ.6O22woKBXed" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue weight of the social presence in coi of the three presences in coi, social can be one of the trickiest and most important in virtual course design.        1        2         3        4       5         6 7 14      8       9       10      11      12      13    </slidetext>
+      <slidetext slideid="695nrNNteBQ.62ZYBYY6d4I" slidebank="false" type="slide">weight of the social presence in coi of the three presences in coi, social can be one of the trickiest and most important in virtual course design.   1       2        3        4         5         6 7 14     8        9       10      11      12     13 </slidetext>
+      <slidetext slideid="5w4oOdU9MAx.5ftKdFAEjnX" slidebank="false" type="slide">triggering phase</slidetext>
+      <slidetext slideid="5w4oOdU9MAx.5fLavVCaohQ" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue social presence supporting activities  activities that support social presence must be integrated into course design.  group work group work group work  reviewing samples reviewing samples reviewing samples instructor feedback instructor feedback instructor feedback</slidetext>
+      <slidetext slideid="5w4oOdU9MAx.6HKdoDR0AHx" slidebank="false" type="slide">social presence supporting activities  activities that support social presence must be integrated into course design.  group work</slidetext>
+      <slidetext slideid="5w4oOdU9MAx.5lv8HQDJPJc" slidebank="false" type="slide">social presence supporting activities  social presence activities foster collaboration and promote a sense of community.  group work</slidetext>
+      <slidetext slideid="5w4oOdU9MAx.6pxHrwfpL8N" slidebank="false" type="slide">social presence and interaction the community of inquiry model identifies social presence as a key factor in learning.  </slidetext>
+      <slidetext slideid="5w4oOdU9MAx.5sqLEXPC912" slidebank="false" type="slide">thank you thank you for your response. continue continue continue continue continue continue social presence supporting activities  students have different ways they prefer to connect and engage. students have different ways they prefer to connect and engage.  group work group work group work group work peer reviews peer reviews peer reviews peer reviews instructor communication instructor communication instructor communication instructor communication  #1   #2 #3 </slidetext>
+      <slidetext slideid="5w4oOdU9MAx.5qPFp1llrSI" slidebank="false" type="slide">social presence supporting activities  students have different ways they prefer to connect and engage. </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.6nEXDIikq0T" slidebank="false" type="slide">exploration phase</slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.67btFctf5O3" slidebank="false" type="slide">incorrect that is incorrect. please try again. try again try again try again try again try again try again correct that's right! you selected the correct response. continue continue continue continue continue continue presences of coi effected by social connections what presences of coi are affected by human connection?  social presence social presence social presence teaching presence teaching presence teaching presence cognitive presence cognitive presence cognitive presence  </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.6Llf46skiTU" slidebank="false" type="slide">social presence effects in coi  social presence effects and impacts other areas of the coi framework. </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.6ZvwdJLscXX" slidebank="false" type="slide">social presence effects on teaching presence  social presence effects the teaching presence in the coi framework. </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.5UvOPJDxCBx" slidebank="false" type="slide">social presence effects on cognitive presence  social presence effects the cognitive presence in the coi framework. </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.5wFUmN7LxJz" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue presences of coi effected by social connections which presences of coi are affected by human connection?  social presence social presence social presence social presence cognitive presence cognitive presence cognitive presence cognitive presence  </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.5aIs4Dxwi4r" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue presences of coi effected by social connections which presences of coi are affected by human connection?  social presence social presence social presence social presence teaching presence teaching presence teaching presence teaching presence  </slidetext>
+      <slidetext slideid="6ZXLaWkfUW4.6qifZtLSeo4" slidebank="false" type="slide">presences of coi effected by social connections how presences of coi are affected by social connection? </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6VGzoO0LpDh" slidebank="false" type="slide">integration phase</slidetext>
+      <slidetext slideid="6iMF8hkfS6o.61ASfkgKsOE" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design. </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6ZbWFhUnPfU" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design. </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6IrCG5i06Jm" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue social connections in course design integrating social presence in assignments.  be clear and concise with expectations be clear and concise with expectations be clear and concise with expectations give example products give example products give example products use scaffolding with feedback use scaffolding with feedback use scaffolding with feedback </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.60yl6cAxqa4" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design.  use scaffolding with feedback</slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6QteePgNkTc" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue social connections in course design integrating social presence in assignments.  focus on your work and don’t try to connect with other students. focus on your work and don’t try to connect with other students. focus on your work and don’t try to connect with other students. engage in peer reviews and provide honest meaningful feedback. engage in peer reviews and provide honest meaningful feedback. engage in peer reviews and provide honest meaningful feedback. virtual instructors don’t worry about social connections in the classroom environment virtual instructors don’t worry about social connections in the classroom environment virtual instructors don’t worry about social connections in the classroom environment </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.5hD8DIQX9zU" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design.  engage in peer reviews and provide honest meaningful feedback.</slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6cUgtiCVvJh" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue social connections in course design integrating social presence in assignments.  if the student wants to focus on cognitive presence, then let them. if the student wants to focus on cognitive presence, then let them. if the student wants to focus on cognitive presence, then let them. social presence is just meant to enhance the college experience. it isn’t directly connected to learning. social presence is just meant to enhance the college experience. it isn’t directly connected to learning. social presence is just meant to enhance the college experience. it isn’t directly connected to learning. the social presence directly impacts cognitive presence. doing peer reviews helps them learn better by supporting discourse. the social presence directly impacts cognitive presence. doing peer reviews helps them learn better by supporting discourse. the social presence directly impacts cognitive presence. doing peer reviews helps them learn better by supporting discourse. </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6NNeuGepMAY" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design.  the social presence directly impacts cognitive presence. doing peer reviews helps them learn better by supporting discourse.</slidetext>
+      <slidetext slideid="6iMF8hkfS6o.5zgXhwMdqsD" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue social connections in course design integrating social presence in assignments.  your feedback isn’t important. it’s just to give you an opportunity to socialize. your feedback isn’t important. it’s just to give you an opportunity to socialize. your feedback isn’t important. it’s just to give you an opportunity to socialize. sometimes instructors are tired and need help guiding students. sometimes instructors are tired and need help guiding students. sometimes instructors are tired and need help guiding students. teachers must promote social presence and collaboration to help set the climate. teachers must promote social presence and collaboration to help set the climate. teachers must promote social presence and collaboration to help set the climate. </slidetext>
+      <slidetext slideid="6iMF8hkfS6o.6GVNRnnxkxV" slidebank="false" type="slide">social connections in course design it is important to incorporate social presences support in course design.  teachers must promote social presence and collaboration to help set the climate.</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.5eMTyhF4fYc" slidebank="false" type="slide">resolution phase</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.67Tfn5p1VnE" slidebank="false" type="slide">name input for quiz   type your name here.</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.5hg9kBIFjZu" slidebank="false" type="slide">quiz introduction </slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6ZPER0i3ums" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue question #1what does the acronym coi reference?please fill in the blank with your answer.  fill in the blank:______________________________________________  </slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6lzXh3sEbh4" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue question #2there are two presences in coi?please click on true or false to indicate whether this is an accurate statement.  true or false  </slidetext>
+      <slidetext slideid="5uNTZmgTLzw.65rjkEBeLm2" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue question #3which presence in coi is based on the learners need to establish their identity and build relationships with others?please select the correct presence or presences.  teaching presence social presence cognitive presence  </slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6Kh7Xmt0pll" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue question #4course design should be developed to facilitate social presence.please select true or false.  true or false  </slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6OkAvI6IiW3" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! you selected the correct response. continue continue continue continue continue continue question #5which presences in coi are affected by the development of social connection in a virtual learning environment?please drag and drop the presence or presences affected in the ”social connection effect” bubble.  social connection effect cognitive presence cognitive presence cognitive presence cognitive presence  teaching presence teaching presence teaching presence teaching presence social presence social presence social presence social presence</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.5zLb7YRTluU" slidebank="false" type="slide"> summary.coi helps us understand the impact of human connection in the virtual classroom.</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6RSslNoHONw" slidebank="false" type="slide"> recommendationsresearching and reading books, articles, and case studies will help you continue to improve your understanding.</slidetext>
+      <slidetext slideid="5uNTZmgTLzw.6CRAi21Omcd" slidebank="false" type="slide"> thank you!thank you for taking this course. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="https://edtechbooks.org/jaid_12_4/employing_the_community_of_inquiry_framework_in_an_asynchronous_graduate_course_for_teachers " image="story_content/url.png" title="Employing the Community of Inquiry Framework in an Asynchronous Graduate Course for Teachers" />
+      <resource url="https://oercommons.org/courses/learning-to-be-human-together-simple-book-publishing " image="story_content/url.png" title="Resource The Design of Digital Learning Environments: Online and Blended Applications of the Community of Inquiry" />
+      <resource url="https://edtechbooks.org/jaid_13_2/shakespeare_and_social_presence_the_power_of_virtual_reality_in_remote_education " image="story_content/url.png" title="Shakespeare and Social Presence: The Power of Virtual Reality in Remote Education" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="695nrNNteBQ.6mwHJPdJi5y" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hello, my name is Joshua Fleck. This presentation is on the importance of human connection through Social Presence in the Virtual Classroom."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.6PtJFrJeUlu" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Big Idea in this course is that human connection and social presence are keep aspects of a successful learning environment. Course Designers should carefully consider ways to support this aspect through their course development. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.5bdmZpc04gD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Here is a look at our learning objectives."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.6cFd1oc22g3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Here is a look at our learning objectives."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.5V53KFWLPrK" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="As you prepare yourself to dive into this course material is important to prepare yourself and your environment so you can focus on learning! "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.6rC7Uqh1F5q" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Articulate 360 is a powerful learning tool. Please take some time to familiarize yourself with the screen and the controls and screen displays "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="such as Glossary, Menu, Advance buttons, closed captions, etc. A computer is required for completion of all assignments in Articluate and a Windows platform is recommended. "&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.5jaBiIUn0H2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Throughout this course you will interact with three different characters. Subject matter experts will teach you the material, while students and course instructors will ask you for solutions to different issues based on what you have learned. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.5nlhaOV4yXD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Community of Inquiry Framework is a model used in course design to ensure a successful learning environment is supported through course design. One key aspect of CoI is Social Presence innaddition to the Teaching and Cognitive presences. The virtual classroom is an especially challenging environment to support social presence but doing so is even more important when not meeting face to face. (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.5hIIRbhQeUT" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Take a moment to consider how you learn and how human connection plays a part in your past learning experiences. As an instructional designer, you must ensure your courseware meets this basic human need and supports social presence. (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.6O22woKBXed" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Social Presence is one of the trickiest and most important presences in CoI. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="In a study of CoI, 14 elements and activities were identified. Using the slider, select how many "&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="of these you believe were attributed to supporting Social Presence. (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="695nrNNteBQ.62ZYBYY6d4I" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The correct answer is seven. This demonstrates that not only is Social Presence Important, but there are many activities and elements we can use to support it. (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.5fLavVCaohQ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Select which of the displayed activities you believe would most contribute to Social Presence Development."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.6HKdoDR0AHx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The correct answer is Group Work. Please take a moment to write a few sentences indicating how group work can support and develop the social presence in a learning environment."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.5lv8HQDJPJc" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="When completing group work, students are able to collaborate and learn from each other. It also affords the opportunity to establish a sense of community which inspires connection and individual investment and participation (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.6pxHrwfpL8N" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="While group work is one of the more obvious activities to promote social presence, the primary goal is interaction and community. This can also be accomplished through peer reviews, communication with the instructor, and with interactive technologies (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.5sqLEXPC912" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Students have different ways they prefer to connect and engage. Drag and drop each social presence activity into the ranking you believe best represents their effectiveness. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5w4oOdU9MAx.5qPFp1llrSI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There is no right or wrong answer here. All technologies and strategies that contribute to Social Presence should be considered and integrated into course design to support the different ways people connect with community in a learning environment. (Dogan, S., Celik, I., Unal, A., &amp;amp; Dogan, N. A., 2023)."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.67btFctf5O3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Drag each CoI presence that is affected by social connections and community. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.6Llf46skiTU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The three different presences of CoI are not independent but rather interlaced and symbiotic when the course is properly designed. (Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.6ZvwdJLscXX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Social Presence and human connection impact teaching presence, by facilitating a structured environment with a positive emotional climate (Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.5UvOPJDxCBx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Social presence also effects the cognitive presence by supporting discourse between students. This human interaction and connection facilitates a deeper learning experience Social Presence and human connection impact teaching presence, by facilitating a structured environment with a positive emotional climate (Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.5wFUmN7LxJz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="In the box, type how social presence or human connection works in conjunction with the cognitive presence. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.5aIs4Dxwi4r" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="In the box, type how social presence or human connection works in conjunction with the teaching presence. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6ZXLaWkfUW4.6qifZtLSeo4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The presences of CoI work in conjunction to support an effective learning environment. Instructional designer should be aware of their connections and the impact they have on students in the learning process. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="(Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.61ASfkgKsOE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="23">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It is important to incorporate social presences support in course design. As an instructional designer you will now help teachers and students incorporate human connection to support social presence.  Reflect on what you have learned and be prepared to integrate that knowledge into solutions."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6ZbWFhUnPfU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="24">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hello! My name is William. I have a doctorate in education. I will be mentoring you and providing you feedback as you support teachers and students in developing human connection in support of the Social Presence of CoI. When you are ready to get started, click the next button, and let’s put human connection in the virtual classroom."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6IrCG5i06Jm" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="25">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hello! My name is Sheila. I am new instructor at Wright State University. I am trying to utilize the Community of Inquiry Model in my course design. How can I use my assessment design to support social presence? (Select one of the three options.)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.60yl6cAxqa4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Scaffolding assignments and providing feedback helps students not only build confidence, but it also instills a sense of connection with the instructor as they provide feedback and mentorship when developing their products. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="(Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6QteePgNkTc" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="27">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Hello! My name is Nora. I am excited to return to college after taking some time to pursue my career. I signed up for a virtual class. I feel as though I will not get an opportunity to get to know my fellow students. How can I still connect with them in a virtual academic setting? (Select one of the three options.)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.5hD8DIQX9zU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="28">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Collaboration between peers improves the student’s ability to learn and should be a part of every course design. It is especially important in virtual settings. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="(Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6cUgtiCVvJh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="29">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="One of my students is frustrated with the peer review process. He wants to focus on learning, not socializing. Why are peer reviews and social presence so important? (Select one of the three options.)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6NNeuGepMAY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="30">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Supporting discourse is one way the learning experienced is enhanced through the blending of social and cognitive presence. Peer reviews are a great way to expand student’s perspectives and improve their understanding. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="(Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.5zgXhwMdqsD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="31">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="I am enjoying engaging in feedback and collaboration with my peers. However, I don’t understand why the teacher is allowing students to provide feedback. Sometimes I am worried my feedback may be inaccurate or lead them in the wrong direction. (Select one of the three options.)"&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6iMF8hkfS6o.6GVNRnnxkxV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="32">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Setting a climate is the responsibility of the teacher, however, by getting each student invested in collaboration and learning they benefit from engaging the students in feedback. This combination of social presence and teaching presence enhances the learning environment and broadens perspectives. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="(Cleveland-Innes et al., 2024)."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.67Tfn5p1VnE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="33">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Please type your name in the box as you would like it to appear on your certificate."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.5hg9kBIFjZu" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="34">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It is time to take a quiz to demonstrate how much you have learned. There will be five questions with various assessment styles. Please read the questions and instructions carefully. If you do not pass with 100% I encourage you to review the training and give it another try. However, a passing grade is 80%. The quiz should take roughly 15-20 minutes to complete. If you experience any technical issues, please reference the Articulate website for help and notify your instructor."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6ZPER0i3ums" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="35">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="What does the acronym CoI reference? Please fill in the blank with your answer."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6lzXh3sEbh4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="36">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="There are two presences in CoI. Please click on true or false to indicate whether this is an accurate statement."&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.65rjkEBeLm2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="37">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Which presence in CoI is based on the learners need to establish their identity and build relationships with others? Please select the correct presence or presences."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6Kh7Xmt0pll" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="38">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Should course design be developed to facilitate social presence? Please select true or false, the click submit."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6OkAvI6IiW3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="39">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Which presences in CoI are affected by the development of social connection in a virtual learning environment? Please drag and drop the presence or presences affected in the ”social connection effect” bubble. "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.5zLb7YRTluU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="40">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="CoI helps us understand the impact of human connection in virtual education. It is important for instructional designers and instructors to understand this and incorporate social presence and human connection into the virtual classroom."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6RSslNoHONw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="41">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Researching and reading books, articles, and case studies will help you continue to improve your understanding. I would highly recommend "&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="The design of digital learning environments: Online and blended applications of the community of inquiry "&gt;
+        &lt;Style FontFamily="Aptos" FontIsItalic="True" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="by Cleveland-Innes, M. F., Stenbom, S., &amp;amp; Garrison, D. R. (2024).  "&gt;
+        &lt;Style FontFamily="Aptos" LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5uNTZmgTLzw.6CRAi21Omcd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="42">&lt;Document xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="0" Color="#000000,00" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Thank you for taking this course. Good luck as you continue to enhance your understanding of CoI and course development."&gt;
+        &lt;Style LinkColor="dk1,00" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data>
+    <terms>
+      <term title="CoI">Community of Inquiry</term>
+    </terms>
+  </glossary_data>
+</bwFrame>
